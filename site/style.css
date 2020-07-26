@@ -66,19 +66,19 @@ section > div {
 #HTML1 {
     background-color: #00BFFF;
     opacity: 100%;
-    font-size: 300%;
+    font-size: 100%;
 }
 
 #Data {
     background-color: #FF1439;
     opacity: 100%;
-    font-size: 300%;
+    font-size: 100%;
 }
 
 #nodered {
     background-color: #008000;
     opacity: 100%;
-    font-size: 300%;
+    font-size: 100%;
 }
 
 .row {
